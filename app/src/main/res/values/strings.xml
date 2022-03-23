@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work5</string>
+    <string name="star">star</string>
+    <string name="but1text">onDisplay</string>
+    <string name="but2text">offDisplay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment SHOP</string>
+</resources>
